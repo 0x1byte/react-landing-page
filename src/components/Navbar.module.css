@@ -16,13 +16,16 @@
   list-style: none;
 }
 
-.list li {
+.list li a{
   padding: 15px;
   color: #62666d;
   font-weight: bold;
   cursor: pointer;
+  text-decoration: none;
 }
 
-.list li:hover {
+
+
+.list li a:hover {
   color: black;
 }
